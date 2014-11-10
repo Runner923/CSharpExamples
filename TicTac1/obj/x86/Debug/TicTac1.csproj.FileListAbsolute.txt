@@ -1,0 +1,5 @@
+C:\Users\Charles\Documents\Csharp\TicTac1\TicTac1\bin\Debug\TicTac1.exe
+C:\Users\Charles\Documents\Csharp\TicTac1\TicTac1\bin\Debug\TicTac1.pdb
+C:\Users\Charles\Documents\Csharp\TicTac1\TicTac1\obj\x86\Debug\TicTac1.exe
+C:\Users\Charles\Documents\Csharp\TicTac1\TicTac1\obj\x86\Debug\TicTac1.pdb
+C:\Users\Charles\Documents\Csharp\TicTac1\TicTac1\obj\x86\Debug\TicTac1.csprojResolveAssemblyReference.cache
